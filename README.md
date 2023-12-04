@@ -1,5 +1,5 @@
 # sql-challenge
-Employee Database Queries and Tables
+#Employee Database Queries and Tables
 This repository provides SQL queries and scripts for an employee database. The queries offer insights into employee data, while the scripts create tables to manage information effectively.
 
 Queries Overview:
